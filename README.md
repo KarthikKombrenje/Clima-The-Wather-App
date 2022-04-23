@@ -1,16 +1,11 @@
-# clima
+Clima is a weather App that gets the weather of the current location as well as the place you intend to find out
 
-A new Flutter project.
+Here is how it Looks:
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/77848437/164861401-237f15e8-957f-4877-b0a3-cee51b956a55.png)
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/77848437/164861415-049cce49-c19b-4023-850c-564652a8f850.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/77848437/164861425-a0aaf3bd-5ce2-4c5c-93d6-616753352ada.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
